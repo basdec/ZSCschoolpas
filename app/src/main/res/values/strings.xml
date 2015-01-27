@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZSC Schoolpas</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="scan">Pas scannen</string>
+    <string name="gebruik">Pas gebruiken</string>
+
+</resources>
